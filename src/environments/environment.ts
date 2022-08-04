@@ -3,15 +3,7 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false,
-  firebaseConfig: {
-    apiKey: "AIzaSyCLMBKXM5UEoJwDxsmmJUND-4GOTZzG14Q",
-    authDomain: "tiktoktest-134cc.firebaseapp.com",
-    projectId: "tiktoktest-134cc",
-    storageBucket: "tiktoktest-134cc.appspot.com",
-    messagingSenderId: "346312727103",
-    appId: "1:346312727103:web:71b0f7b0d232f90705768a"
-  }
+  production: false
 };
 
 /*
